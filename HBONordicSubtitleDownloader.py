@@ -1,5 +1,5 @@
 #Script to download subtitles from HBO Nordic
-#usage HBONordicSubtitleDownloader.py <url>
+#usage HBONordicSubtitleDownloader.py <https://hboportugal.com/series/diarios-do-vampiro/temporada-8/episodio-16>
 #Requires
 #*Python3
 #*Requests
